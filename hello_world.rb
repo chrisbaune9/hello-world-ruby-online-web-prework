@@ -1,1 +1,1 @@
-learn test
+puts "Hello World!"
